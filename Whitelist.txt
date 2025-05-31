@@ -1,0 +1,20 @@
+@@||analytics.plex.tv^$important
+# entblocke youtube.com
+@@||youtube.com^
+@@||www.youtube.com^
+@@||m.youtube.com^
+@@||www.youtube-nocookie.com^
+@@||youtube.googleapis.com^
+@@||youtubei.googleapis.com^
+@@||core2.api.myqnapcloud.com^$important
+@@||edge.api.myqnapcloud.com^$important
+@@||myqnapcloud.com
+@@||api-secure.solvemedia.com^$important
+@@||www.cdn4ads.com^$important
+@@||launcher.bethesda.net^$important
+@@||de.pornhub.com^$client='192.168.98.100'
+@@||www.pornhub.com^$client='192.168.98.100'
+@@||jdownloader.org^
+@@||chaturbate.com^$client='192.168.98.100'
+@@||chaturbate.com^$client='192.168.98.237'
+
