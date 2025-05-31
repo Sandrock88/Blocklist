@@ -1,0 +1,12 @@
+||play-lust.com/^$document
+||madurird.com/^$document
+# entblocke youtube.com
+/\.zip$/
+||bet365.com
+||deinautomagazin.de^
+||https://deinautomagazin.de/^$important
+||adclick.g.doubleclick.net^
+||cdn.consentmanager.net^
+||news-und-nachrichten.de^
+||mdn.net^
+||landerhd.com^
